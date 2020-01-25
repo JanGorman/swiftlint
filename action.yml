@@ -1,5 +1,5 @@
-name: 'Wait'
-description: 'Wait a designated number of milliseconds'
+name: 'Run Swiftlint'
+description: 'Runs Swiftlint'
 inputs:
   milliseconds:  # id of input
     description: 'number of milliseconds to wait'
